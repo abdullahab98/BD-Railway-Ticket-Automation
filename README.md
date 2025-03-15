@@ -1,7 +1,7 @@
 create .env {
 #Credential
-MOBILE_NUMBER =01780879898
-PASSWORD =a1412805688
+MOBILE_NUMBER =
+PASSWORD =
 
 #Travel Details
 FROM_CITY =Dhaka
